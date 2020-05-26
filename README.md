@@ -1,1 +1,1 @@
-# hs_web_a
+Alternative for hate speech website
